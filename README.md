@@ -9,6 +9,6 @@ Projetos e formatação de dados feitos com o intuito de melhorar minhas habilid
 
 ## 📦 Como instalar
 ```bash
-git clone https://github.com/seuusuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/ynajooje/Curso-Imers-o-de-Dados-Alura.git
+cd Curso-Imers-o-de-Dados-Alura
 pip install -r requirements.txt
