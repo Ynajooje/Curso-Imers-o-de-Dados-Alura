@@ -1,14 +1,9 @@
 # Irmersão de Dados com Python
 
 Projetos e formatação de dados feitos com o intuito de melhorar minhas habilidades.
+Link do site: [Análise de Salários na Área de Dados](https://curso-imersao-de-dados-alura.streamlit.app/)
 
 ## 🚀 Tecnologias
 - Python 3.10
 - Pandas
 - NumPy
-
-## 📦 Como instalar
-```bash
-git clone https://github.com/ynajooje/Curso-Imers-o-de-Dados-Alura.git
-cd Curso-Imers-o-de-Dados-Alura
-pip install -r requirements.txt
